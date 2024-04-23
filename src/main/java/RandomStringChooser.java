@@ -17,6 +17,7 @@ public class RandomStringChooser
       String chose = vals1[index];
     vals1[index] = vals1[va1L-1];
     va1l-1;
+    return chose;
   }
   
   //Heads up! 
